@@ -1,6 +1,6 @@
 # PDC Sessional-II (Fall 2026)
 
-Parallel and Distributed Computing (CS3006), FAST Lahore. The scanned paper is [Mid2](./mid2.pdf).
+Parallel and Distributed Computing (CS3006), FAST Lahore. The scanned paper is [Mid2](./Mid2.pdf).
 
 | | |
 |---|---|
